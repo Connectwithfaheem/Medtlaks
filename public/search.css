@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px)
+{
+    .searchRender{
+        width: 92.24rem;
+        position:absolute;
+        z-index:1;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+    }
+    .searchBox{
+        background: rgb(237, 237, 237);
+        border-radius:5px;
+        width: 18.75rem;
+        position:relative;
+        top:-10px;
+        margin-right:1000px;
+
+        box-shadow:0 0 0.3rem black;
+    }
+
+}

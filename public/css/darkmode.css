@@ -1,0 +1,110 @@
+.body {
+    background-color: #0f172a;
+    transition: 0.5s all;
+}
+
+.body #header.scrolled {
+    background-color: #1c2845;
+}
+
+.body .logo h1 {
+    color: #c9d4e4;
+}
+
+.body .bio h1 {
+    color: #e6f0ff;
+}
+
+.body .emailsub {
+    background: #1c2845;
+}
+
+.body .bio form input {
+    color: #fff;
+}
+
+.body .hottopicssec {
+    background-color: #1c2845;
+    border: 1px solid #222f43;
+}
+
+.body .hottopics h3 {
+    color: #b9e0f2;
+}
+
+.body .edcard {
+    background-color: #131c31;
+    border: 1px solid #222f43;
+}
+
+.body .edcarddetl a h2 {
+    color: #b9e0f2;
+}
+
+.body .authorname h4 {
+    color: #66768f;
+}
+
+.body .authorname span {
+    color: #66768f;
+}
+
+.body .readmore::before {
+    background-color: #e5dede15;
+}
+
+.body .tegsec a {
+    background-color: #0062ff1a;
+    border: 1px solid #393957;
+    color: #99a5b9;
+}
+
+.body .tegsec a:hover {
+    border: 1px solid rgba(0, 255, 255, 0.688);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.305);
+}
+
+.body .postlabel a {
+    background-color: #214b89b0;
+    color: #fff;
+}
+
+.body .postdetails h2 {
+    color: #b9e0f2;
+}
+
+.body .popularposts {
+    background-color: #1c2845;
+    border: 1px solid #495d7a;
+}
+
+.body .popupostde h4 {
+    color: #b9e0f2;
+}
+
+.body .popupostde {
+    border-bottom: 1px solid #304058;
+}
+
+.body .comment p {
+    font-size: 14px;
+    color: #9badc9;
+}
+
+.body footer {
+    background-color: #12233f;
+    border-color: #203b62;
+}
+
+.body .logof a h1,
+.body .categoriesfooter h3,
+.body .newsletterfooter h3,
+.body .newsletterfooter form input,
+.body .logofooter h4 {
+    color: #b9e0f2;
+}
+
+.body .footersec p,
+.body .footersec li a {
+    color: #94a9c9;
+}
